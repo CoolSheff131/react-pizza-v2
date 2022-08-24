@@ -13,3 +13,5 @@ const NotFoundBlock = () => {
     </div>
   );
 };
+
+export default NotFoundBlock;
